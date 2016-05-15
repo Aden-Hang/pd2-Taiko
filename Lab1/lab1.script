@@ -1,19 +1,0 @@
-Script started on 2016年03月14日 (週一) 23時12分18秒
-]0;F74046137@2015cpp: ~F74046137@2015cpp:~$ whoami;ped[K[Kwd
-F74046137
-/home/F74046137
-]0;F74046137@2015cpp: ~F74046137@2015cpp:~$ git config -l
-]0;F74046137@2015cpp: ~F74046137@2015cpp:~$ git clone https://github.com/<your github account>/lab1.git [A
-bash: your: No such file or directory
-]0;F74046137@2015cpp: ~F74046137@2015cpp:~$ git clone https://github.com/<your github account>/lab1.git [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P>/lab1.git
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.gitA>/lab1.gitd>/lab1.gite>/lab1.gitn>/lab1.git->/lab1.gitH>/lab1.gita>/lab1.gitn>/lab1.gitg>/lab1.git
-bash: Aden-Hang: No such file or directory
-]0;F74046137@2015cpp: ~F74046137@2015cpp:~$ git clone https://github.com/<Aden-Hang>/lab1.git[C[1P/lab1.git[1PAden-Hang/lab1.git
-Cloning into 'lab1'...
-remote: Counting objects: 4, done.[K
-remote: Compressing objects:  25% (1/4)   [Kremote: Compressing objects:  50% (2/4)   [Kremote: Compressing objects:  75% (3/4)   [Kremote: Compressing objects: 100% (4/4)   [Kremote: Compressing objects: 100% (4/4), done.[K
-remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0[K
-Unpacking objects:  25% (1/4)   Unpacking objects:  50% (2/4)   Unpacking objects:  75% (3/4)   Unpacking objects: 100% (4/4)   Unpacking objects: 100% (4/4), done.
-]0;F74046137@2015cpp: ~F74046137@2015cpp:~$ exit
-
-Script done on 2016年03月14日 (週一) 23時14分50秒
