@@ -23,7 +23,8 @@ FORMS    += mainwindow.ui \
     dialog.ui
 
 RESOURCES += \
-    pics.qrc
+    pics.qrc \
+    sounds.qrc
 
 DISTFILES += \
     ../../Downloads/img/img/bg_miss_clear.png

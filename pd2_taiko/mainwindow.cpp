@@ -612,7 +612,7 @@ void MainWindow::on_time_5_clicked()
 void MainWindow::on_music1_1_clicked()
 {
     ui->label1pic->hide();
-    mMediaPlayer->setMedia(QUrl("C:/Users/User/Documents/drumNew/Maroon5_Love Somebody (30s).mp3"));
+    mMediaPlayer->setMedia(QUrl("qrc:/Maroon5_Love Somebody (30s).mp3"));
     mMediaPlayer->play();
     ui->music1_1->hide();
     ui->music1_2->hide();
@@ -636,7 +636,7 @@ void MainWindow::on_music1_1_clicked()
 void MainWindow::on_music1_2_clicked()
 {
     ui->label1pic->hide();
-    mMediaPlayer->setMedia(QUrl("C:/Users/User/Documents/drumNew/don't_be_friend_again (30s).mp3"));
+    mMediaPlayer->setMedia(QUrl("qrc:/don't_be_friend_again (30s).mp3"));
     mMediaPlayer->play();
     ui->music1_1->hide();
     ui->music1_2->hide();
@@ -660,7 +660,7 @@ void MainWindow::on_music1_2_clicked()
 void MainWindow::on_music1_3_clicked()
 {
     ui->label1pic->hide();
-    mMediaPlayer->setMedia(QUrl("C:/Users/User/Documents/drumNew/---Tia Lee------Not Good Enough-Official Music Video HD (30s).mp3"));
+    mMediaPlayer->setMedia(QUrl("qrc:/---Tia Lee------Not Good Enough-Official Music Video HD (30s).mp3"));
     mMediaPlayer->play();
     ui->music1_1->hide();
     ui->music1_2->hide();
